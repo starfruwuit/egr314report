@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://embedded-systems-design.github.io/template_report/BlockDiagram/</loc>
+         <loc>https://starfruwuit.github.io/egr314report/mainPage/BlockDiagram/</loc>
          <lastmod>2025-02-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://embedded-systems-design.github.io/template_report/charts/</loc>
+         <loc>https://starfruwuit.github.io/egr314report/mainPage/charts/</loc>
          <lastmod>2025-02-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://embedded-systems-design.github.io/template_report/mainPage/</loc>
+         <loc>https://starfruwuit.github.io/egr314report/mainPage/mainPage/</loc>
          <lastmod>2025-02-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://embedded-systems-design.github.io/template_report/todos/</loc>
+         <loc>https://starfruwuit.github.io/egr314report/mainPage/todos/</loc>
          <lastmod>2025-02-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://embedded-systems-design.github.io/template_report/static/node_modules/mathjax/</loc>
+         <loc>https://starfruwuit.github.io/egr314report/mainPage/static/node_modules/mathjax/</loc>
          <lastmod>2025-02-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://embedded-systems-design.github.io/template_report/subfolder/</loc>
+         <loc>https://starfruwuit.github.io/egr314report/mainPage/subfolder/</loc>
          <lastmod>2025-02-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://embedded-systems-design.github.io/template_report/subfolder/another-subfile/</loc>
+         <loc>https://starfruwuit.github.io/egr314report/mainPage/subfolder/another-subfile/</loc>
          <lastmod>2025-02-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
