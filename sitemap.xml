@@ -21,17 +21,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://starfruwuit.github.io/egr314report/mainPage/97subfolder/</loc>
-         <lastmod>2025-02-24</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://starfruwuit.github.io/egr314report/mainPage/97subfolder/another-subfile/</loc>
-         <lastmod>2025-02-24</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://starfruwuit.github.io/egr314report/mainPage/static/node_modules/mathjax/</loc>
+         <lastmod>2025-02-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://starfruwuit.github.io/egr314report/mainPage/subfolder/97index/</loc>
+         <lastmod>2025-02-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://starfruwuit.github.io/egr314report/mainPage/subfolder/another-subfile/</loc>
          <lastmod>2025-02-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
