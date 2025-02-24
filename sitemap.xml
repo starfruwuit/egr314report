@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://embedded-systems-design.github.io/template_report/BlockDiagram/</loc>
-         <lastmod>2025-02-17</lastmod>
+         <lastmod>2025-02-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://embedded-systems-design.github.io/template_report/charts/</loc>
-         <lastmod>2025-02-17</lastmod>
+         <lastmod>2025-02-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://embedded-systems-design.github.io/template_report/main%20page/</loc>
-         <lastmod>2025-02-17</lastmod>
+         <loc>https://embedded-systems-design.github.io/template_report/mainPage/</loc>
+         <lastmod>2025-02-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://embedded-systems-design.github.io/template_report/second-page/</loc>
-         <lastmod>2025-02-17</lastmod>
+         <lastmod>2025-02-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://embedded-systems-design.github.io/template_report/static/node_modules/mathjax/</loc>
-         <lastmod>2025-02-17</lastmod>
+         <lastmod>2025-02-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://embedded-systems-design.github.io/template_report/subfolder/</loc>
-         <lastmod>2025-02-17</lastmod>
+         <lastmod>2025-02-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://embedded-systems-design.github.io/template_report/subfolder/another-subfile/</loc>
-         <lastmod>2025-02-17</lastmod>
+         <lastmod>2025-02-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
