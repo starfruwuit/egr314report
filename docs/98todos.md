@@ -6,7 +6,7 @@ title: Website to-do's
 - [ ] *Schematic design assignment*
 
 #### lower priority:
-- [ ] put tabs at top of page in order
+- [x] put tabs at top of page in order
 - [ ] fix [landing page](https://starfruwuit.github.io/egr314report/)
 - [ ] fix links to not go back to template repo
-- [ ] figure out color editing
+- [x] figure out color editing
