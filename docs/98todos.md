@@ -2,8 +2,9 @@
 title: Website to-do's
 ---
 #### higher priority:
-- [ ] *Component Selection assignment*
+- [x] *Component Selection assignment*
 - [ ] *Schematic design assignment*
+- [ ] *BOM assignment*
 
 #### lower priority:
 - [x] put tabs at top of page in order

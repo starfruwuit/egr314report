@@ -71,6 +71,6 @@ I will use an ESP32 microcontroller for this project because my subsystem requir
 |40|GND |Ground|
 
 ## Power Budget
-
+![Power Budget](powerBudget.png)
 
 This page is up-to-date as of February 28, 2025 and will continue to be updated throughout the semester. 
