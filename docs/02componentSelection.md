@@ -25,13 +25,16 @@ I will use an ESP32 microcontroller for this project because my subsystem requir
 |Supply Voltage |3.0-3.6V|
 
 ### Pinout & Pin Allocation
-![image](docs/ESP32pinout.png)
-|Pin #| Name | Use|
+![image](ESP32pinout.png) <br>
+|Pin number| Name | Use|
 |-----|-----|-----|
 |1|GND |Ground|
 |2|3v3 |Power In|
 |3|EN |reset button & RC circuit to stabilize input power|
 |4|IO4 |Debugging LED|
+..... 
+
+
 |5|IO5 ||
 |6|IO6 ||
 |7|IO7 ||
