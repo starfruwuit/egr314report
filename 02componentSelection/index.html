@@ -272,6 +272,23 @@
   
   
     <li class="md-tabs__item">
+      <a href="../04BOM/" class="md-tabs__link">
+        
+  
+    
+  
+  Bill of Materials
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
       <a href="../98todos/" class="md-tabs__link">
         
   
@@ -498,6 +515,13 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#pinout-pin-allocation" class="md-nav__link">
+    Pinout &amp; Pin Allocation
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -529,6 +553,25 @@
   
   <span class="md-ellipsis">
     Schematic
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../04BOM/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Bill of Materials
   </span>
   
 
@@ -684,6 +727,13 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#pinout-pin-allocation" class="md-nav__link">
+    Pinout &amp; Pin Allocation
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -752,6 +802,7 @@
 <p>I chose the LM2575 because it's familiar from the Switching Power Supply lab. It's only a few cents more expensive than the TPS5403DR, and provides up to 1 Amp of current, which is far more than enough. </p>
 <h2 id="microchip">Microchip</h2>
 <h3 id="requirements">Requirements</h3>
+<p>I will use an ESP32 microcontroller for this project because my subsystem requires the use of a wifi module. </p>
 <h3 id="esp32">ESP32</h3>
 <table>
 <thead>
@@ -766,12 +817,73 @@
 <td>ESP32-S3-WROOM-1-N4</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>Datasheet</td>
+<td><a href="documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf">link</a></td>
+</tr>
+<tr>
+<td>Vendor Link</td>
+<td><a href="https://www.digikey.com/en/products/detail/espressif-systems/ESP32-S3-WROOM-1-N4/16162639">Link</a></td>
+</tr>
+<tr>
+<td>Unit Cost</td>
+<td>$5.06</td>
+</tr>
+<tr>
+<td>Maximum Current</td>
+<td>500 mA</td>
+</tr>
+<tr>
+<td>Supply Voltage</td>
+<td>3.0-3.6V</td>
 </tr>
 </tbody>
 </table>
+<h3 id="pinout-pin-allocation">Pinout &amp; Pin Allocation</h3>
+<p><a class="glightbox" href="docs/ESP32pinout.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="image" src="docs/ESP32pinout.png" /></a>
+|Pin #| Name | Use|
+|-----|-----|-----|
+|1|GND |Ground|
+|2|3v3 |Power In|
+|3|EN |reset button &amp; RC circuit to stabilize input power|
+|4|IO4 |Debugging LED|
+|5|IO5 ||
+|6|IO6 ||
+|7|IO7 ||
+|8|IO15 ||
+|9|IO16 ||
+|10|IO17 ||
+|11|IO18 ||
+|12|IO8 ||
+|13|IO19 |USB_D-|
+|14|IO20 |USB_D+|
+|15|IO3 ||
+|16|IO46 ||
+|17|IO9 ||
+|18|IO10 ||
+|19|IO11 ||
+|20|IO12 ||
+|21|IO13 ||
+|22|IO14 ||
+|23|IO21 ||
+|24|IO47 ||
+|25|IO48 ||
+|26|IO45 ||
+|27|IO0 ||
+|28|IO35 ||
+|29|IO36 ||
+|30|IO37 ||
+|31|IO38 ||
+|32|IO39 ||
+|33|IO40 ||
+|34|IO41 ||
+|35|IO42 ||
+|36|RXD0 |Receiving Data from Upstream|
+|37|TXD0 |Transmitting Data Downstream|
+|38|IO2 ||
+|39|IO1 ||
+|40|GND |Ground|</p>
 <h2 id="power-budget">Power Budget</h2>
+<p>This page is up-to-date as of February 28, 2025 and will continue to be updated throughout the semester. </p>
 
 
 
