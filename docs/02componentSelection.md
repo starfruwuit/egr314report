@@ -24,8 +24,9 @@ I will use an ESP32 microcontroller for this project because my subsystem requir
 |Maximum Current|500 mA|
 |Supply Voltage |3.0-3.6V|
 
-### Pinout & Pin Allocation
-![image](ESP32pinout.png) <br>
+### Pinout
+![image](ESP32pinout.png)
+### Pin Allocation
 |Pin number & Name | Use|
 |-----|-----|
 |1: GND |Ground|
