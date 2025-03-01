@@ -27,15 +27,12 @@ I will use an ESP32 microcontroller for this project because my subsystem requir
 ### Pinout
 ![image](ESP32pinout.png)
 ### Pin Allocation
-|Pin number & Name | Use|
-|-----|-----|
-|1: GND |Ground|
-|2: 3v3 |Power In|
-|3: EN |reset button & RC circuit to stabilize input power|
-|4: IO4 |Debugging LED|
-..... 
-
-
+|Pin number | Name | Use|
+|-----|-----|-----|
+|1| GND |Ground|
+|2| 3v3 |Power In|
+|3| EN |reset button & RC circuit to stabilize input power|
+|4| IO4 |Debugging LED|
 |5|IO5 ||
 |6|IO6 ||
 |7|IO7 ||
