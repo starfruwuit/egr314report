@@ -33,41 +33,41 @@ I will use an ESP32 microcontroller for this project because my subsystem requir
 |2| 3v3 |Power In|
 |3| EN |reset button & RC circuit to stabilize input power|
 |4| IO4 |Debugging LED|
-|5|IO5 ||
-|6|IO6 ||
-|7|IO7 ||
-|8|IO15 ||
-|9|IO16 ||
-|10|IO17 ||
-|11|IO18 ||
-|12|IO8 ||
+|5|IO5 |Debugging LED|
+|6|IO6 |Debugging Pushbutton|
+|7|IO7 |Debugging Header|
+|8|IO15 |Debugging Header|
+|9|IO16 |Debugging Header|
+|10|IO17 |Debugging Header|
+|11|IO18 |Debugging Header|
+|12|IO8 |Debugging Header|
 |13|IO19 |USB_D-|
 |14|IO20 |USB_D+|
-|15|IO3 ||
-|16|IO46 ||
-|17|IO9 ||
-|18|IO10 ||
-|19|IO11 ||
-|20|IO12 ||
-|21|IO13 ||
-|22|IO14 ||
-|23|IO21 ||
-|24|IO47 ||
-|25|IO48 ||
-|26|IO45 ||
-|27|IO0 ||
-|28|IO35 ||
-|29|IO36 ||
-|30|IO37 ||
-|31|IO38 ||
-|32|IO39 ||
-|33|IO40 ||
-|34|IO41 ||
-|35|IO42 ||
+|15|IO3 |Debugging Header|
+|16|IO46 |Debugging Header|
+|17|IO9 |Debugging Header|
+|18|IO10 |Debugging Header|
+|19|IO11 |Debugging Header|
+|20|IO12 |Debugging Header|
+|21|IO13 |Debugging Header|
+|22|IO14 |Debugging Header|
+|23|IO21 |Debugging Header|
+|24|IO47 |Debugging Header|
+|25|IO48 |Debugging Header|
+|26|IO45 |Debugging Header|
+|27|IO0 |Debugging Header|
+|28|IO35 |Debugging Header|
+|29|IO36 |Debugging Header|
+|30|IO37 |Debugging Header|
+|31|IO38 |Debugging Header|
+|32|IO39 |Debugging Header|
+|33|IO40 |Debugging Header|
+|34|IO41 |Debugging Header|
+|35|IO42 |Debugging Header|
 |36|RXD0 |Receiving Data from Upstream|
 |37|TXD0 |Transmitting Data Downstream|
-|38|IO2 ||
-|39|IO1 ||
+|38|IO2 |Debugging Header|
+|39|IO1 |Debugging Header|
 |40|GND |Ground|
 
 ## Power Budget
