@@ -13,7 +13,7 @@ title: Bill of Materials
 |Jumpers | QPC02SXGN-RC | 4 | 4 | [digikey](https://www.digikey.com/en/products/detail/sullins-connector-solutions/QPC02SXGN-RC/2618262) |
 |1x2 Male Headers | ????? | 4 (5?) | 5 | [digikey]() |
 |2x15 Male Headers | ????? | 1 | 1 | [digikey]() |
-|2x4 Female Headers |
+|2x4 Female Headers | ????? | 2 | 2 | [digikey]() |
 |220 uH Inductor
 |22 uF Capacitor
 |0.1 uF Capacitor
