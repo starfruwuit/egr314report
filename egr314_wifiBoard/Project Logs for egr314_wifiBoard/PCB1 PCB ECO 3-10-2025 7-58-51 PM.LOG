@@ -1,0 +1,101 @@
+Removed Pin From Net: NetName=NetR?_1 Pin=R?-1
+Removed Pin From Net: NetName=uncleanVin Pin=UPSTREAM-1
+Change Component Comment : Designator=R? Old Comment=220 Ohms New Comment=Resistor
+Change Component Designator: OldDesignator=CR? NewDesignator=D4
+Change Component Designator: OldDesignator=CR? NewDesignator=D5
+Change Component Designator: OldDesignator=CR? NewDesignator=D6
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Managed Component Library Link : Designator=R? Old VaultGUID=d258a43b-2d81-4b5d-ad95-ab7aefcdd56e New VaultGUID= Old ItemGUID=25A374F8-990A-46CC-B05E-482D80343173 New ItemGUID= Old RevisionGUID=7D398E89-A32E-4358-9FDF-463057A87217 New RevisionGUID=
+Change component parameters: Designator = "R?" ("R?"); Footprint = "RESC2012X65N"; UniqueID = "\FRFVSRDS" ("\FRFVSRDS")
+Change component parameters (AddParameter): Name = "DTEMP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SimulationGenericComponent"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "T_REL_LOCAL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TC1"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TC2"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TEMP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=LED4(SODFL350X110-2N)
+Added Component: Designator=R6(RESC2012X65N)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CRGCQ0805F220R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "A129741CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=3188284"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=3188284"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CRGCQ0805F220R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "2012 TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CRGCQ0805F220R/TE%20Connectivity%20Passive%20Product/view-part/3188284/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CRGCQ0805F220R.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-2
+Added Pin To Net: NetName=uncleanVin Pin=CR?-1
+Added Pin To Net: NetName=VDD33 Pin=D4-1
+Added Pin To Net: NetName=GND Pin=LED4-1
+Added Pin To Net: NetName=IO1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=IO2 Pin=R?-2
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U2-6
+Add Pin To Net: Unknown Pin: Pin USB-B-2
+Add Pin To Net: Unknown Pin: Pin USB-B-3
+Add Pin To Net: Unknown Pin: Pin USB-B-4
+Add Pin To Net: Unknown Pin: Pin USB-B-5
+Change Net Name : Old Net Name=NetCR?_2 New Net Name=NetD6_2
+Added Pin To Net: NetName=NetC7_2 Pin=CR?-2
+Added Pin To Net: NetName=NetC7_2 Pin=R5-2
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetCR?_2 Pin=CR?-2
+Added Pin To Net: NetName=NetCR?_2 Pin=F1-1
+Added Net: Name=NetCR?_2
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_2 Pin=R6-2
+Added Net: Name=NetD4_2
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Net: Name=NetD5_1
+Added Pin To Net: NetName=NetF1_2 Pin=F1-2
+Added Pin To Net: NetName=NetF1_2 Pin=UPSTREAM-1
+Added Net: Name=NetF1_2
+Added Pin To Net: NetName=NetLED4_2 Pin=LED4-2
+Added Pin To Net: NetName=NetLED4_2 Pin=R6-1
+Added Net: Name=NetLED4_2
+Added Differential Pair: Name=D
+Added Member To Class: ClassName=Schematic02 Member=Component *? 2x1JUMPER
+Add Class Member: Failed to add class member : Component C1 22 uF
+Add Class Member: Failed to add class member : Component C2 1 uF
+Add Class Member: Failed to add class member : Component C3 0.1 uF
+Add Class Member: Failed to add class member : Component C4 0.1 uF
+Add Class Member: Failed to add class member : Component C5 0.1 uF
+Add Class Member: Failed to add class member : Component C6 Capacitor
+Add Class Member: Failed to add class member : Component C7 Capacitor
+Add Class Member: Failed to add class member : Component C? Capacitor
+Added Member To Class: ClassName=Schematic02 Member=Component CR? SD0805S020S1R0
+Added Member To Class: ClassName=Schematic02 Member=Component D4 SD0805S020S1R0
+Added Member To Class: ClassName=Schematic02 Member=Component D5 SD0805S020S1R0
+Added Member To Class: ClassName=Schematic02 Member=Component D6 SD0805S020S1R0
+Add Class Member: Failed to add class member : Component L1 Inductor
+Added Member To Class: ClassName=Schematic02 Member=Component LED4 APTR3216-VFX
+Added Member To Class: ClassName=Schematic02 Member=Component R5 220 Ohms
+Added Member To Class: ClassName=Schematic02 Member=Component R6 220 Ohms
+Added Member To Class: ClassName=Schematic02 Member=Component R? 10K Ohms
+Added Member To Class: ClassName=Schematic02 Member=Component R? Resistor
+Added Member To Class: ClassName=Schematic02 Member=Component R? 220 Ohms
+Add Class Member: Failed to add class member : Component U2 LM2575-3.3WU-TR
+Add Class Member: Failed to add class member : Component USB-B USB3131-30-0230-A_1

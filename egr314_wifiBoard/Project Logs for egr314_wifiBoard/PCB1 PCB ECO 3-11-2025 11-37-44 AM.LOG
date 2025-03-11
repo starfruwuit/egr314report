@@ -1,0 +1,80 @@
+Removed Pin From Net: NetName=HEADER_VIN Pin=CR?-1
+Removed Pin From Net: NetName=NetR?_1 Pin=R?-1
+Removed Pin From Net: NetName=IO2 Pin=R?-2
+Removed Member From Class: ClassName=Schematic02 Member=CR?
+Change Component Designator: OldDesignator=CR? NewDesignator=D1
+Change Component Designator: OldDesignator=CR? NewDesignator=D2
+Change Component Designator: OldDesignator=R5 NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Added Component: Designator=D3(SD0805_AVX)
+Add component (AddParameter): Name = "Design Item ID"; Value = "SD0805S020S1R0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "SD0805S020S1R0.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=USB-B(USB3131-30-0230-A_1-Footprint-1)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "USB3131-30-0230-A_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Global Connector Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "USB3131-30-0230-A.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-2
+Added Pin To Net: NetName=HEADER_VIN Pin=D3-2
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Added Pin To Net: NetName=IO1 Pin=R3-1
+Added Pin To Net: NetName=NetLED2_2 Pin=R3-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U2-6
+Added Pin To Net: NetName=NetD4_2 Pin=USB-B-1
+Added Pin To Net: NetName=D_N Pin=USB-B-2
+Added Pin To Net: NetName=D_P Pin=USB-B-3
+Added Pin To Net: NetName=GND Pin=USB-B-4
+Added Pin To Net: NetName=GND Pin=USB-B-5
+Change Net Name : Old Net Name=NetCR?_2 New Net Name=NetD2_2
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR5_1
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=DOWNSTREAM-1
+Added Net: Name=NetD3_1
+Add Class Member: Failed to add class member : Component C1 22 uF
+Add Class Member: Failed to add class member : Component C2 1 uF
+Add Class Member: Failed to add class member : Component C3 0.1 uF
+Add Class Member: Failed to add class member : Component C4 0.1 uF
+Add Class Member: Failed to add class member : Component C5 0.1 uF
+Add Class Member: Failed to add class member : Component C6 Capacitor
+Add Class Member: Failed to add class member : Component C7 Capacitor
+Add Class Member: Failed to add class member : Component C? Capacitor
+Added Member To Class: ClassName=Schematic02 Member=Component D1 SD0805S020S1R0
+Added Member To Class: ClassName=Schematic02 Member=Component D2 SD0805S020S1R0
+Added Member To Class: ClassName=Schematic02 Member=Component D3 SD0805S020S1R0
+Add Class Member: Failed to add class member : Component L1 Inductor
+Added Member To Class: ClassName=Schematic02 Member=Component R2 220 Ohms
+Added Member To Class: ClassName=Schematic02 Member=Component R5 10K Ohms
+Add Class Member: Failed to add class member : Component R6 Resistor
+Add Class Member: Failed to add class member : Component U2 LM2575-3.3WU-TR
+Added Member To Class: ClassName=Schematic02 Member=Component USB-B USB3131-30-0230-A_1

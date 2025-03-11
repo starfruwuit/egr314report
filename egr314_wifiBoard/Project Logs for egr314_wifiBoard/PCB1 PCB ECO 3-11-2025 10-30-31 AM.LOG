@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=NetR?_1 Pin=R?-1
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Added Pin To Net: NetName=IO1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=IO2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_1 Pin=SW?-A2
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U2-6
+Add Pin To Net: Unknown Pin: Pin USB-B-1
+Add Pin To Net: Unknown Pin: Pin USB-B-2
+Add Pin To Net: Unknown Pin: Pin USB-B-3
+Add Pin To Net: Unknown Pin: Pin USB-B-4
+Add Pin To Net: Unknown Pin: Pin USB-B-5
+Add Net: Net with name "NetCR?_2" already exists
+Add Class Member: Failed to add class member : Component C1 22 uF
+Add Class Member: Failed to add class member : Component C2 1 uF
+Add Class Member: Failed to add class member : Component C3 0.1 uF
+Add Class Member: Failed to add class member : Component C4 0.1 uF
+Add Class Member: Failed to add class member : Component C5 0.1 uF
+Add Class Member: Failed to add class member : Component C6 Capacitor
+Add Class Member: Failed to add class member : Component C7 Capacitor
+Add Class Member: Failed to add class member : Component C? Capacitor
+Added Member To Class: ClassName=Schematic02 Member=Component CR? SD0805S020S1R0
+Added Member To Class: ClassName=Schematic02 Member=Component CR? SD0805S020S1R0
+Add Class Member: Failed to add class member : Component L1 Inductor
+Added Member To Class: ClassName=Schematic02 Member=Component R? Resistor
+Added Member To Class: ClassName=Schematic02 Member=Component R? 220 Ohms
+Added Member To Class: ClassName=Schematic02 Member=Component R? 10K Ohms
+Add Class Member: Failed to add class member : Component U2 LM2575-3.3WU-TR
+Add Class Member: Failed to add class member : Component USB-B USB3131-30-0230-A_1
