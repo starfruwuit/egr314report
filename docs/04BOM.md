@@ -16,11 +16,10 @@ title: Bill of Materials
 |2x4 Female Headers | ????? | 2 | 2 | [digikey]() |
 |220 uH Inductor
 |22 uF Capacitor
-|0.1 uF Capacitor
+|0.1 uF Capacitor |??| 5| 5| [digikey](https://www.digikey.com/en/products/detail/kyocera-avx/KGM21NR71E104KT/1116281) |
 |1 uF Capacitor
 |100 uF Capacitor
 |330 uF Capacitor
-|10K Ohm Resistor
-|220 Ohm Resistor
+|10K Ohm Resistor | |2 |4 | [digikey](https://www.digikey.com/en/products/detail/yageo/RC1206FR-0710KL/728483) |
+|220 Ohm Resistor | | | [digikey]() |
 |Diodes
-|Schottky Diode

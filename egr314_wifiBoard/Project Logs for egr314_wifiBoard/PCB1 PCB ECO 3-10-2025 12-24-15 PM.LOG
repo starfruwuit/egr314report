@@ -1,0 +1,136 @@
+Added Component: Designator=ESP32(XCVR_ESP32-S3-WROOM-1-N4)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "ESP32-S3-WROOM-1-N4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Espressif Systems'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32-S3-WROOM-1-N4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "49"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "ESP32-S3-WROOM-1-N4.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=F1(0154Series_LTF)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "0154.630DR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Littelfuse Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "0154P630DR.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESC3116X65N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC1206FR-0710KL/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "RC1206FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC1206FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "3116 Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search?q=RC1206FR-0710KL&ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC1206FR-0710KL/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "RC1206FR-0710KL.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC3116X65N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC1206FR-0710KL/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "RC1206FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC1206FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "3116 Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search?q=RC1206FR-0710KL&ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC1206FR-0710KL/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "RC1206FR-0710KL.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SW?(436331045822)
+Add component (AddParameter): Name = "Category"; Value = "Tact Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit"; Value = "SPST-NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/436331045822?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/436331045822?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Stainless Steel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "436331045822"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "4.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "436331045822"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WS-TASU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operation Force"; Value = "220g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "12VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "WS-TASU.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Washable"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "3.5mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=D_N Pin=ESP32-13
+Added Net: Name=D_N
+Added Pin To Net: NetName=D_P Pin=ESP32-14
+Added Net: Name=D_P
+Added Pin To Net: NetName=GND Pin=ESP32-1
+Added Pin To Net: NetName=GND Pin=ESP32-40
+Added Pin To Net: NetName=GND Pin=ESP32-41_1
+Added Pin To Net: NetName=GND Pin=ESP32-41_2
+Added Pin To Net: NetName=GND Pin=ESP32-41_3
+Added Pin To Net: NetName=GND Pin=ESP32-41_4
+Added Pin To Net: NetName=GND Pin=ESP32-41_5
+Added Pin To Net: NetName=GND Pin=ESP32-41_6
+Added Pin To Net: NetName=GND Pin=ESP32-41_7
+Added Pin To Net: NetName=GND Pin=ESP32-41_8
+Added Pin To Net: NetName=GND Pin=ESP32-41_9
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC?_2 Pin=ESP32-3
+Added Pin To Net: NetName=NetC?_2 Pin=R1-1
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetLabel6 Pin=ESP32-27
+Added Net: Name=NetLabel6
+Added Pin To Net: NetName=NetLabel7 Pin=ESP32-39
+Added Net: Name=NetLabel7
+Added Pin To Net: NetName=NetLabel8 Pin=ESP32-38
+Added Net: Name=NetLabel8
+Added Pin To Net: NetName=NetLabel9 Pin=ESP32-15
+Added Net: Name=NetLabel9
+Added Pin To Net: NetName=NetLabel10 Pin=ESP32-4
+Added Net: Name=NetLabel10
+Added Pin To Net: NetName=NetLabel11 Pin=ESP32-5
+Added Net: Name=NetLabel11
+Added Pin To Net: NetName=NetLabel12 Pin=ESP32-6
+Added Net: Name=NetLabel12
+Added Pin To Net: NetName=NetLabel13 Pin=ESP32-7
+Added Net: Name=NetLabel13
+Added Pin To Net: NetName=NetLabel14 Pin=ESP32-12
+Added Net: Name=NetLabel14
+Added Pin To Net: NetName=NetLabel15 Pin=ESP32-17
+Added Net: Name=NetLabel15
+Added Pin To Net: NetName=NetLabel16 Pin=ESP32-18
+Added Net: Name=NetLabel16
+Added Pin To Net: NetName=NetLabel17 Pin=ESP32-19
+Added Net: Name=NetLabel17
+Added Pin To Net: NetName=NetLabel18 Pin=ESP32-20
+Added Net: Name=NetLabel18
+Added Pin To Net: NetName=NetLabel19 Pin=ESP32-21
+Added Net: Name=NetLabel19
+Added Pin To Net: NetName=NetLabel20 Pin=ESP32-22
+Added Net: Name=NetLabel20
+Added Pin To Net: NetName=NetLabel21 Pin=ESP32-8
+Added Net: Name=NetLabel21
+Added Pin To Net: NetName=NetLabel22 Pin=ESP32-9
+Added Net: Name=NetLabel22
+Added Pin To Net: NetName=RX Pin=ESP32-36
+Added Net: Name=RX
+Added Pin To Net: NetName=TX Pin=ESP32-37
+Added Net: Name=TX
+Added Pin To Net: NetName=VDD33 Pin=ESP32-2
+Added Pin To Net: NetName=VDD33 Pin=R1-2
+Added Net: Name=VDD33
+Added Class: Name=Schematic02
+Added Rule: Name=Schematic Supply Nets

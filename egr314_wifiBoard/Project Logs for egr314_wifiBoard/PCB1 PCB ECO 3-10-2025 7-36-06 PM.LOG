@@ -1,0 +1,133 @@
+Removed Pin From Net: NetName=NetC?_2 Pin=ESP32-3
+Removed Pin From Net: NetName=NetC?_2 Pin=R1-1
+Added Component: Designator=*?(26640201RP2-Footprint-1)
+Added Component: Designator=*?(26640201RP2-Footprint-1)
+Added Component: Designator=*(26640201RP2-Footprint-1)
+Added Component: Designator=LED1(SODFL350X110-2N)
+Added Component: Designator=LED2(SODFL350X110-2N)
+Added Component: Designator=LED3(SODFL350X110-2N)
+Added Component: Designator=R?(RESC2012X65N)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CRGCQ0805F220R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "A129741CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=3188284"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=3188284"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CRGCQ0805F220R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "2012 TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CRGCQ0805F220R/TE%20Connectivity%20Passive%20Product/view-part/3188284/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CRGCQ0805F220R.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC2012X65N)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CRGCQ0805F220R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "A129741CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=3188284"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=3188284"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CRGCQ0805F220R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "2012 TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CRGCQ0805F220R/TE%20Connectivity%20Passive%20Product/view-part/3188284/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CRGCQ0805F220R.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC2012X65N)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CRGCQ0805F220R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "A129741CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=3188284"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=3188284"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CRGCQ0805F220R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "2012 TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CRGCQ0805F220R/TE%20Connectivity%20Passive%20Product/view-part/3188284/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CRGCQ0805F220R.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC2012X65N)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CRGCQ0805F220R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "A129741CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=3188284"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=3188284"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CRGCQ0805F220R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "2012 TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CRGCQ0805F220R/TE%20Connectivity%20Passive%20Product/view-part/3188284/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CRGCQ0805F220R.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Added Pin To Net: NetName=uncleanVin Pin=CR?-1
+Added Pin To Net: NetName=VDD33 Pin=CR?-1
+Added Pin To Net: NetName=GND Pin=CR?-2
+Added Pin To Net: NetName=NetC?_2 Pin=CR?-2
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-2
+Add Pin To Net: Unknown Pin: Pin L1-2
+Added Pin To Net: NetName=GND Pin=LED1-1
+Added Pin To Net: NetName=GND Pin=LED2-1
+Added Pin To Net: NetName=GND Pin=LED3-1
+Added Pin To Net: NetName=IO0 Pin=R?-1
+Added Pin To Net: NetName=IO1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=IO2 Pin=R?-2
+Added Pin To Net: NetName=NetC?_2 Pin=R?-2
+Add Pin To Net: Unknown Pin: Pin U?-3
+Add Pin To Net: Unknown Pin: Pin U?-4
+Add Pin To Net: Unknown Pin: Pin U?-5
+Add Pin To Net: Unknown Pin: Pin U?-6
+Add Pin To Net: Unknown Pin: Pin USB-B-4
+Add Pin To Net: Unknown Pin: Pin USB-B-5
+Added Net: Name=5TO12IN
+Added Pin To Net: NetName=NetC2_2 Pin=ESP32-3
+Added Pin To Net: NetName=NetC2_2 Pin=R1-1
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetCR?_1 Pin=CR?-1
+Added Net: Name=NetCR?_1
+Added Pin To Net: NetName=NetCR?_2 Pin=CR?-2
+Added Pin To Net: NetName=NetCR?_2 Pin=J?-3
+Added Net: Name=NetCR?_2
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=R?-2
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_2 Pin=R?-2
+Added Net: Name=NetLED2_2
+Added Pin To Net: NetName=NetLED3_2 Pin=LED3-2
+Added Pin To Net: NetName=NetLED3_2 Pin=R?-1
+Added Net: Name=NetLED3_2
+Added Member To Class: ClassName=Schematic02 Member=Component *? 2x1JUMPER
+Added Member To Class: ClassName=Schematic02 Member=Component *? 2x1JUMPER
+Added Member To Class: ClassName=Schematic02 Member=Component * 2x1JUMPER
+Add Class Member: Failed to add class member : Component C1 22 uF
+Add Class Member: Failed to add class member : Component C2 1 uF
+Add Class Member: Failed to add class member : Component C3 0.1 uF
+Add Class Member: Failed to add class member : Component C? Capacitor
+Add Class Member: Failed to add class member : Component C? Capacitor
+Add Class Member: Failed to add class member : Component C? Capacitor
+Added Member To Class: ClassName=Schematic02 Member=Component CR? SD0805S020S1R0
+Added Member To Class: ClassName=Schematic02 Member=Component CR? SD0805S020S1R0
+Added Member To Class: ClassName=Schematic02 Member=Component CR? SD0805S020S1R0
+Added Member To Class: ClassName=Schematic02 Member=Component CR? SD0805S020S1R0
+Add Class Member: Failed to add class member : Component L1 Inductor
+Added Member To Class: ClassName=Schematic02 Member=Component LED1 APTR3216-VFX
+Added Member To Class: ClassName=Schematic02 Member=Component LED2 APTR3216-VFX
+Added Member To Class: ClassName=Schematic02 Member=Component LED3 APTR3216-VFX
+Added Member To Class: ClassName=Schematic02 Member=Component R? 220 Ohms
+Added Member To Class: ClassName=Schematic02 Member=Component R? 220 Ohms
+Added Member To Class: ClassName=Schematic02 Member=Component R? 10K Ohms
+Added Member To Class: ClassName=Schematic02 Member=Component R? 220 Ohms
+Added Member To Class: ClassName=Schematic02 Member=Component R? 220 Ohms
+Add Class Member: Failed to add class member : Component U? LM2575-3.3WU-TR
+Add Class Member: Failed to add class member : Component USB-B USB3131-30-0230-A_1

@@ -1,0 +1,92 @@
+Removed Pin From Net: NetName=IO6 Pin=R?-2
+Removed Pin From Net: NetName=GND Pin=TP_GND-1
+Removed Member From Class: ClassName=Schematic02 Member=TP_GND
+Change Component Footprint: Designator=DBH Old Footprint=26643001RP2-Footprint-1 New Footprint=26643001RP2-Footprint-1
+Change Managed Component Library Link : Designator=DBH Old VaultGUID=d258a43b-2d81-4b5d-ad95-ab7aefcdd56e New VaultGUID=d258a43b-2d81-4b5d-ad95-ab7aefcdd56e Old ItemGUID=1bfed377-96eb-4c18-8d0b-0b30d4a51aa6 New ItemGUID=1bfed377-96eb-4c18-8d0b-0b30d4a51aa6 Old RevisionGUID=da9600a2-b80e-48f4-b86a-0460d16de7b6 New RevisionGUID=62c33e3a-5442-4e78-aac4-76cf5aa1da26
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Added Pin To Net: NetName=IO3 Pin=DBH-1
+Added Pin To Net: NetName=IO4 Pin=DBH-2
+Added Pin To Net: NetName=IO5 Pin=DBH-3
+Added Pin To Net: NetName=IO6 Pin=DBH-4
+Added Pin To Net: NetName=IO7 Pin=DBH-5
+Added Pin To Net: NetName=IO8 Pin=DBH-6
+Added Pin To Net: NetName=IO9 Pin=DBH-7
+Added Pin To Net: NetName=IO10 Pin=DBH-8
+Added Pin To Net: NetName=IO11 Pin=DBH-9
+Added Pin To Net: NetName=IO12 Pin=DBH-10
+Added Pin To Net: NetName=IO13 Pin=DBH-11
+Added Pin To Net: NetName=IO14 Pin=DBH-12
+Added Pin To Net: NetName=IO15 Pin=DBH-13
+Added Pin To Net: NetName=IO16 Pin=DBH-14
+Added Pin To Net: NetName=GND Pin=DBH-30
+Added Pin To Net: NetName=IO2 Pin=R?-2
+Added Pin To Net: NetName=VDD33 Pin=R?-2
+Add Pin To Net: Unknown Pin: Pin U?-1
+Add Pin To Net: Unknown Pin: Pin U?-3
+Add Pin To Net: Unknown Pin: Pin U?-6
+Add Pin To Net: Unknown Pin: Pin USB-B-4
+Add Pin To Net: Unknown Pin: Pin USB-B-5
+Added Pin To Net: NetName=IO17 Pin=DBH-15
+Added Pin To Net: NetName=IO17 Pin=ESP32-10
+Added Net: Name=IO17
+Added Pin To Net: NetName=IO18 Pin=DBH-16
+Added Pin To Net: NetName=IO18 Pin=ESP32-11
+Added Net: Name=IO18
+Added Pin To Net: NetName=IO21 Pin=DBH-17
+Added Pin To Net: NetName=IO21 Pin=ESP32-23
+Added Net: Name=IO21
+Added Pin To Net: NetName=IO35 Pin=DBH-18
+Added Pin To Net: NetName=IO35 Pin=ESP32-28
+Added Net: Name=IO35
+Added Pin To Net: NetName=IO36 Pin=DBH-19
+Added Pin To Net: NetName=IO36 Pin=ESP32-29
+Added Net: Name=IO36
+Added Pin To Net: NetName=IO37 Pin=DBH-20
+Added Pin To Net: NetName=IO37 Pin=ESP32-30
+Added Net: Name=IO37
+Added Pin To Net: NetName=IO38 Pin=DBH-21
+Added Pin To Net: NetName=IO38 Pin=ESP32-31
+Added Net: Name=IO38
+Added Pin To Net: NetName=IO39 Pin=DBH-22
+Added Pin To Net: NetName=IO39 Pin=ESP32-32
+Added Net: Name=IO39
+Added Pin To Net: NetName=IO40 Pin=DBH-23
+Added Pin To Net: NetName=IO40 Pin=ESP32-33
+Added Net: Name=IO40
+Added Pin To Net: NetName=IO41 Pin=DBH-24
+Added Pin To Net: NetName=IO41 Pin=ESP32-34
+Added Net: Name=IO41
+Added Pin To Net: NetName=IO42 Pin=DBH-25
+Added Pin To Net: NetName=IO42 Pin=ESP32-35
+Added Net: Name=IO42
+Added Pin To Net: NetName=IO45 Pin=DBH-26
+Added Pin To Net: NetName=IO45 Pin=ESP32-26
+Added Net: Name=IO45
+Added Pin To Net: NetName=IO46 Pin=DBH-27
+Added Pin To Net: NetName=IO46 Pin=ESP32-16
+Added Net: Name=IO46
+Added Pin To Net: NetName=IO47 Pin=DBH-28
+Added Pin To Net: NetName=IO47 Pin=ESP32-24
+Added Net: Name=IO47
+Added Pin To Net: NetName=IO48 Pin=DBH-29
+Added Pin To Net: NetName=IO48 Pin=ESP32-25
+Added Net: Name=IO48
+Add Class Member: Failed to add class member : Component C? 08053C104KAT2A
+Add Class Member: Failed to add class member : Component C? 08053C104KAT2A
+Add Class Member: Failed to add class member : Component C? Capacitor
+Add Class Member: Failed to add class member : Component C? 08053C104KAT2A
+Added Member To Class: ClassName=Schematic02 Member=Component CR? SD0805S020S1R0
+Added Member To Class: ClassName=Schematic02 Member=Component CR? SD0805S020S1R0
+Added Member To Class: ClassName=Schematic02 Member=Component CR? SD0805S020S1R0
+Added Member To Class: ClassName=Schematic02 Member=Component CR? SD0805S020S1R0
+Added Member To Class: ClassName=Schematic02 Member=Component R? Resistor
+Added Member To Class: ClassName=Schematic02 Member=Component R? 10K Ohms
+Add Class Member: Failed to add class member : Component U? LM2575-3.3WU-TR
+Add Class Member: Failed to add class member : Component USB-B USB3131-30-0230-A_1

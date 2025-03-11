@@ -1,0 +1,71 @@
+Added Component: Designator=DOWNSTREAM(CONN_7024608xx_MOL)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "702460801"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Molex Connector Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "702460801.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=J?(SWITCHCRAFT_RASM722BKZ)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "RASM722BKZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Switchcraft Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RASM722BKZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "RASM722BKZ.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC3116X65N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RC1206FR-0710KL/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "RC1206FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC1206FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "3116 Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search?q=RC1206FR-0710KL&ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC1206FR-0710KL/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "RC1206FR-0710KL.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=UPSTREAM(CONN_7024608xx_MOL)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "702460801"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Molex Connector Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "702460801.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Added Pin To Net: NetName=VDD33 Pin=R?-2
+Add Pin To Net: Unknown Pin: Pin U?-3
+Add Pin To Net: Unknown Pin: Pin U?-6
+Add Pin To Net: Unknown Pin: Pin USB-B-4
+Add Pin To Net: Unknown Pin: Pin USB-B-5
+Change Net Name : Old Net Name=NetLabel6 New Net Name=IO0
+Change Net Name : Old Net Name=NetLabel7 New Net Name=IO1
+Change Net Name : Old Net Name=NetLabel8 New Net Name=IO2
+Change Net Name : Old Net Name=NetLabel9 New Net Name=IO3
+Added Net: Name=uncleanVin
+Add Class Member: Failed to add class member : Component C? 08053C104KAT2A
+Add Class Member: Failed to add class member : Component C? 08053C104KAT2A
+Add Class Member: Failed to add class member : Component C? 08053C104KAT2A
+Add Class Member: Failed to add class member : Component D? Light-Emitting Diode
+Add Class Member: Failed to add class member : Component D? Light-Emitting Diode
+Add Class Member: Failed to add class member : Component D? Light-Emitting Diode
+Add Class Member: Failed to add class member : Component D? Light-Emitting Diode
+Added Member To Class: ClassName=Schematic02 Member=Component DOWNSTREAM 702460801
+Added Member To Class: ClassName=Schematic02 Member=Component J? RASM722BKZ
+Added Member To Class: ClassName=Schematic02 Member=Component R? 10K Ohms
+Added Member To Class: ClassName=Schematic02 Member=Component R? Resistor
+Add Class Member: Failed to add class member : Component U? LM2575-3.3WU-TR
+Added Member To Class: ClassName=Schematic02 Member=Component UPSTREAM 702460801
+Add Class Member: Failed to add class member : Component USB-B USB3131-30-0230-A_1
