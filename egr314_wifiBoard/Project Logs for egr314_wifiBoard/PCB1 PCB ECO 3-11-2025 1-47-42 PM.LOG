@@ -1,0 +1,35 @@
+Change Component Comment : Designator=C3 Old Comment=THISONE08053C104KAT2A New Comment=0.1 uF
+Change Component Comment : Designator=C4 Old Comment=THISONE08053C104KAT2A New Comment=0.1 uF
+Added Component: Designator=C5(CAPC2012X06N)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "08053C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "08053C104KAT2A.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAPC2012X06N)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "08053C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "08053C104KAT2A.SchLib"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Added Pin To Net: NetName=D_P Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=IO2 Pin=C8-2
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Class Member: Failed to add class member : Component C1 22 uF
+Add Class Member: Failed to add class member : Component C2 1 uF
+Added Member To Class: ClassName=Schematic02 Member=Component C5 0.1 uF
+Add Class Member: Failed to add class member : Component C6 Capacitor
+Add Class Member: Failed to add class member : Component C7 Capacitor
+Added Member To Class: ClassName=Schematic02 Member=Component C8 0.1 uF
+Add Class Member: Failed to add class member : Component L1 Inductor

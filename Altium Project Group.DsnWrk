@@ -2,3 +2,7 @@
 Version=1.0
 [Project1]
 ProjectPath=egr314_wifiBoard\egr314_wifiBoard.PrjPcb
+[Project2]
+ProjectPath=..\..\..\..\..\Downloads\08053C104KAT2A\AltiumDesigner\08053C104KAT2A.LibPkg
+[Project3]
+ProjectPath=..\..\..\..\..\Downloads\702460801_stp\0154_630DR(1)\AltiumDesigner\0154P630DR.LibPkg

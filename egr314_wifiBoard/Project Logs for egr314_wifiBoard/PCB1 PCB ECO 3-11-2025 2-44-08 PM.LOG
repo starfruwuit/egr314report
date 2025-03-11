@@ -1,0 +1,43 @@
+Added Component: Designator=C1(CAP_CL_21_SAM)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "CL21A226MAYNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "CL21A226MAYNNNE.SchLib"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=VDD33 Pin=C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Added Member To Class: ClassName=Schematic02 Member=Component C1 22 uF
+Add Class Member: Failed to add class member : Component C2 1 uF
+Added Member To Class: ClassName=Schematic02 Member=Component C3 0.1 uF
+Added Member To Class: ClassName=Schematic02 Member=Component C4 0.1 uF
+Added Member To Class: ClassName=Schematic02 Member=Component C5 0.1 uF
+Add Class Member: Failed to add class member : Component C6 Capacitor
+Add Class Member: Failed to add class member : Component C7 Capacitor
+Added Member To Class: ClassName=Schematic02 Member=Component C8 0.1 uF
+Added Member To Class: ClassName=Schematic02 Member=Component D1 SD0805S020S1R0
+Added Member To Class: ClassName=Schematic02 Member=Component D2 SD0805S020S1R0
+Added Member To Class: ClassName=Schematic02 Member=Component D3 SD0805S020S1R0
+Added Member To Class: ClassName=Schematic02 Member=Component D4 SD0805S020S1R0
+Added Member To Class: ClassName=Schematic02 Member=Component D5 SD0805S020S1R0
+Added Member To Class: ClassName=Schematic02 Member=Component D6 SD0805S020S1R0
+Added Member To Class: ClassName=Schematic02 Member=Component J1 2x1JUMPER
+Added Member To Class: ClassName=Schematic02 Member=Component J2 2x1JUMPER
+Added Member To Class: ClassName=Schematic02 Member=Component J3 2x1JUMPER
+Added Member To Class: ClassName=Schematic02 Member=Component L1 NR10050T221M
+Added Member To Class: ClassName=Schematic02 Member=Component LED1 APTR3216-VFX
+Added Member To Class: ClassName=Schematic02 Member=Component LED2 APTR3216-VFX
+Added Member To Class: ClassName=Schematic02 Member=Component LED3 APTR3216-VFX
+Added Member To Class: ClassName=Schematic02 Member=Component R2 220 Ohms
+Added Member To Class: ClassName=Schematic02 Member=Component R3 220 Ohms
+Added Member To Class: ClassName=Schematic02 Member=Component R4 220 Ohms
+Added Member To Class: ClassName=Schematic02 Member=Component R5 10K Ohms
+Added Member To Class: ClassName=Schematic02 Member=Component R6 220 Ohms
+Added Member To Class: ClassName=Schematic02 Member=Component SW1 436331045822
+Added Member To Class: ClassName=Schematic02 Member=Component U2 LM2575-3.3WU-TR
+Added Member To Class: ClassName=Schematic02 Member=Component USB-B USB3131-30-0230-A_1

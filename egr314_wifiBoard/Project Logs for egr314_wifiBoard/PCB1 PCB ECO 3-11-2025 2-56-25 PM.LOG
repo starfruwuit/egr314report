@@ -1,0 +1,19 @@
+Added Component: Designator=C6(CAPC3216X190N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "GRM31CR61A107MEA8L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GRM31CR61A107MEA8L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "GRM31CR61A107MEA8L.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 uF"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=5TO12IN Pin=C6-2
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Add Class Member: Failed to add class member : Component C2 1 uF
+Added Member To Class: ClassName=Schematic02 Member=Component C6 GRM31CR61A107MEA8L
+Add Class Member: Failed to add class member : Component C7 Capacitor

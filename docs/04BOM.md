@@ -16,12 +16,12 @@ title: Bill of Materials
 |1x2 Male Headers | ????? | 4 (5?) | 5 | [digikey]() |
 |2x15 Male Headers | ????? | 1 | 1 | [digikey]() |
 |2x4 Female Headers | 702460801 | 2 | 2 | provided in class |
-|220 uH Inductor
-|22 uF Capacitor
-|0.1 uF Capacitor |??| 5| 5| [digikey](https://www.digikey.com/en/products/detail/kyocera-avx/KGM21NR71E104KT/1116281) |
-|1 uF Capacitor
-|100 uF Capacitor
-|330 uF Capacitor
+|220 uH Inductor | | 1| 2 | [digikey](https://www.digikey.com/en/products/detail/taiyo-yuden/NR10050T221M/1007976) |
+|0.1 uF Capacitor | KGM21NR71E104KT | 4 | 5| [digikey](https://www.digikey.com/en/products/detail/kyocera-avx/KGM21NR71E104KT/1116281) |
+|1 uF Capacitor | | 1 | 2 | [digikey](https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B105KBFNNNE/3886687) | 
+|22 uF Capacitor | CL21A226MAYNNNE | 1 | 1 | [digikey](https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21A226MAYNNNE/10479857) |
+|100 uF Capacitor | | 1| 2| [digikey](https://www.digikey.com/en/products/detail/murata-electronics/GRM31CR61A107MEA8L/16033775) | 
+|330 uF Capacitor | JMK325ABJ337MM-PE | 1| 2| [digikey](https://www.digikey.com/en/products/detail/taiyo-yuden/JMK325ABJ337MM-PE/10283779) |
 |10K Ohm Resistor | RC1206FR-0710KL |2 |4 | [digikey](https://www.digikey.com/en/products/detail/yageo/RC1206FR-0710KL/728483) |
 |220 Ohm Resistor | CRGCQ0805F220R| | [digikey](https://www.digikey.com/en/products/detail/te-connectivity-passive-product/CRGCQ0805F220R/8576343) |
 |Diodes | SD0805S020S1R0|6| 6|[digikey](https://www.digikey.com/en/products/filter/single-diodes/280?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRAGYBOcgJkpANgA4AWFgdgZCfPbAgJgWABkoBWeAF0CABwAuUEAGU5AJwCWAOwDmIAL6N60EMkjps%2BIqRAjq1ENJDzFKjTv2DKTI0lSZcBMSQZMIOBiAAtPDGpmoArpZBZDRh4SnBIAAm6oSZOGFAA) |
