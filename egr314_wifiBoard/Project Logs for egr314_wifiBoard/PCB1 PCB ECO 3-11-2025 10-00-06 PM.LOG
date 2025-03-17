@@ -1,0 +1,19 @@
+Change Component DesignItemId : Designator=D1 Old DesignItemId=CMP-024-000001-1 New DesignItemId=CMP-024-000001-3
+Change Component DesignItemId : Designator=D2 Old DesignItemId=CMP-024-000001-1 New DesignItemId=CMP-024-000001-3
+Change Component DesignItemId : Designator=D3 Old DesignItemId=CMP-024-000001-1 New DesignItemId=CMP-024-000001-3
+Change Component DesignItemId : Designator=D4 Old DesignItemId=CMP-024-000001-1 New DesignItemId=CMP-024-000001-3
+Change Component DesignItemId : Designator=D5 Old DesignItemId=CMP-024-000001-1 New DesignItemId=CMP-024-000001-3
+Change Component DesignItemId : Designator=D6 Old DesignItemId=CMP-024-000001-1 New DesignItemId=CMP-024-000001-3
+Change Component Footprint: Designator=D1 Old Footprint=SD0805_AVX New Footprint=SD0805_AVX
+Change Component Footprint: Designator=D2 Old Footprint=SD0805_AVX New Footprint=SD0805_AVX
+Change Component Footprint: Designator=D3 Old Footprint=SD0805_AVX New Footprint=SD0805_AVX
+Change Component Footprint: Designator=D4 Old Footprint=SD0805_AVX New Footprint=SD0805_AVX
+Change Component Footprint: Designator=D5 Old Footprint=SD0805_AVX New Footprint=SD0805_AVX
+Change Component Footprint: Designator=D6 Old Footprint=SD0805_AVX New Footprint=SD0805_AVX
+Change Managed Component Library Link : Designator=D1 Old VaultGUID=d258a43b-2d81-4b5d-ad95-ab7aefcdd56e New VaultGUID=d258a43b-2d81-4b5d-ad95-ab7aefcdd56e Old ItemGUID=A6A77729-D881-4A55-A31E-57CCA27EE20C New ItemGUID=A6A77729-D881-4A55-A31E-57CCA27EE20C Old RevisionGUID=12CC0257-83C2-43BA-B5A6-47D7F59E8124 New RevisionGUID=7e6dbce7-1d2a-4270-b42a-42ed77107ad6
+Change Managed Component Library Link : Designator=D2 Old VaultGUID=d258a43b-2d81-4b5d-ad95-ab7aefcdd56e New VaultGUID=d258a43b-2d81-4b5d-ad95-ab7aefcdd56e Old ItemGUID=A6A77729-D881-4A55-A31E-57CCA27EE20C New ItemGUID=A6A77729-D881-4A55-A31E-57CCA27EE20C Old RevisionGUID=12CC0257-83C2-43BA-B5A6-47D7F59E8124 New RevisionGUID=7e6dbce7-1d2a-4270-b42a-42ed77107ad6
+Change Managed Component Library Link : Designator=D3 Old VaultGUID=d258a43b-2d81-4b5d-ad95-ab7aefcdd56e New VaultGUID=d258a43b-2d81-4b5d-ad95-ab7aefcdd56e Old ItemGUID=A6A77729-D881-4A55-A31E-57CCA27EE20C New ItemGUID=A6A77729-D881-4A55-A31E-57CCA27EE20C Old RevisionGUID=12CC0257-83C2-43BA-B5A6-47D7F59E8124 New RevisionGUID=7e6dbce7-1d2a-4270-b42a-42ed77107ad6
+Change Managed Component Library Link : Designator=D4 Old VaultGUID=d258a43b-2d81-4b5d-ad95-ab7aefcdd56e New VaultGUID=d258a43b-2d81-4b5d-ad95-ab7aefcdd56e Old ItemGUID=A6A77729-D881-4A55-A31E-57CCA27EE20C New ItemGUID=A6A77729-D881-4A55-A31E-57CCA27EE20C Old RevisionGUID=12CC0257-83C2-43BA-B5A6-47D7F59E8124 New RevisionGUID=7e6dbce7-1d2a-4270-b42a-42ed77107ad6
+Change Managed Component Library Link : Designator=D5 Old VaultGUID=d258a43b-2d81-4b5d-ad95-ab7aefcdd56e New VaultGUID=d258a43b-2d81-4b5d-ad95-ab7aefcdd56e Old ItemGUID=A6A77729-D881-4A55-A31E-57CCA27EE20C New ItemGUID=A6A77729-D881-4A55-A31E-57CCA27EE20C Old RevisionGUID=12CC0257-83C2-43BA-B5A6-47D7F59E8124 New RevisionGUID=7e6dbce7-1d2a-4270-b42a-42ed77107ad6
+Change Managed Component Library Link : Designator=D6 Old VaultGUID=d258a43b-2d81-4b5d-ad95-ab7aefcdd56e New VaultGUID=d258a43b-2d81-4b5d-ad95-ab7aefcdd56e Old ItemGUID=A6A77729-D881-4A55-A31E-57CCA27EE20C New ItemGUID=A6A77729-D881-4A55-A31E-57CCA27EE20C Old RevisionGUID=12CC0257-83C2-43BA-B5A6-47D7F59E8124 New RevisionGUID=7e6dbce7-1d2a-4270-b42a-42ed77107ad6
+Added Member To Class: ClassName=Schematic02 Member=Component J2 2x1JUMPER

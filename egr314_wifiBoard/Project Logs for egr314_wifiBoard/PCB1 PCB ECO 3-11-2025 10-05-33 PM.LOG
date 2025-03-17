@@ -1,0 +1,14 @@
+Change Component DesignItemId : Designator=F1 Old DesignItemId=CMP-010-000000-1 New DesignItemId=CMP-010-000000-2
+Change Component DesignItemId : Designator=C1 Old DesignItemId=CMP-017-000005-1 New DesignItemId=CMP-017-000005-2
+Change Component Footprint: Designator=F1 Old Footprint=0154Series_LTF New Footprint=0154Series_LTF
+Change Component Footprint: Designator=C1 Old Footprint=CAP_CL_21_SAM New Footprint=CAP_CL_21_SAM
+Change Component Comment : Designator=C1 Old Comment=22 uF New Comment=CL21A226MAYNNNE
+Change Managed Component Library Link : Designator=C1 Old VaultGUID=d258a43b-2d81-4b5d-ad95-ab7aefcdd56e New VaultGUID=d258a43b-2d81-4b5d-ad95-ab7aefcdd56e Old ItemGUID=F226F254-2DDE-4E5A-91AB-344B9D0B942D New ItemGUID=F226F254-2DDE-4E5A-91AB-344B9D0B942D Old RevisionGUID=7AE4B404-44F2-4F3D-B30F-07ED0334D6CD New RevisionGUID=6832dfec-074a-40c8-aa0b-6d6b432a7ab6
+Change Managed Component Library Link : Designator=F1 Old VaultGUID=d258a43b-2d81-4b5d-ad95-ab7aefcdd56e New VaultGUID=d258a43b-2d81-4b5d-ad95-ab7aefcdd56e Old ItemGUID=FF57B0C2-7086-4A3C-A69F-1608A5F7A645 New ItemGUID=FF57B0C2-7086-4A3C-A69F-1608A5F7A645 Old RevisionGUID=D528678F-614A-4C6D-8033-172B3686CC2B New RevisionGUID=988a9162-6a8c-47ee-a956-4d098a669866
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CAP_CL_21_SAM"; UniqueID = "\GOXSKICS" ("\GOXSKICS")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "CL21A226MAYNNNE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Samsung"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "CL21A226MAYNNNE.SchLib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22 uF"; VariantName = "[No Variations]"

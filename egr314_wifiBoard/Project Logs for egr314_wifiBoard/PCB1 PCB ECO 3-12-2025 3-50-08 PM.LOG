@@ -1,0 +1,44 @@
+Change Component DesignItemId : Designator=C3 Old DesignItemId=CMP-017-000003-2 New DesignItemId=CMP-017-000003-3
+Change Component DesignItemId : Designator=C4 Old DesignItemId=CMP-017-000003-2 New DesignItemId=CMP-017-000003-3
+Change Component DesignItemId : Designator=C5 Old DesignItemId=CMP-017-000003-2 New DesignItemId=CMP-017-000003-3
+Change Component DesignItemId : Designator=C8 Old DesignItemId=CMP-017-000003-2 New DesignItemId=CMP-017-000003-3
+Change Component Footprint: Designator=C3 Old Footprint=CAPC2012X06N New Footprint=CAPC2012X06N
+Change Component Footprint: Designator=C4 Old Footprint=CAPC2012X06N New Footprint=CAPC2012X06N
+Change Component Footprint: Designator=C5 Old Footprint=CAPC2012X06N New Footprint=CAPC2012X06N
+Change Component Footprint: Designator=C8 Old Footprint=CAPC2012X06N New Footprint=CAPC2012X06N
+Change Component Comment : Designator=C3 Old Comment=0.1 uF New Comment=THISONE08053C104KAT2A
+Change Component Comment : Designator=C4 Old Comment=0.1 uF New Comment=THISONE08053C104KAT2A
+Change Component Comment : Designator=C5 Old Comment=0.1 uF New Comment=THISONE08053C104KAT2A
+Change Component Comment : Designator=C8 Old Comment=0.1 uF New Comment=THISONE08053C104KAT2A
+Change Managed Component Library Link : Designator=C3 Old VaultGUID=d258a43b-2d81-4b5d-ad95-ab7aefcdd56e New VaultGUID=d258a43b-2d81-4b5d-ad95-ab7aefcdd56e Old ItemGUID=631784F0-2768-4534-B82A-745D041741BA New ItemGUID=631784F0-2768-4534-B82A-745D041741BA Old RevisionGUID=b36ee2d2-b704-4a82-8034-b637a535d141 New RevisionGUID=0ec07842-70b0-43e5-aef3-0ca3fc4689fe
+Change Managed Component Library Link : Designator=C4 Old VaultGUID=d258a43b-2d81-4b5d-ad95-ab7aefcdd56e New VaultGUID=d258a43b-2d81-4b5d-ad95-ab7aefcdd56e Old ItemGUID=631784F0-2768-4534-B82A-745D041741BA New ItemGUID=631784F0-2768-4534-B82A-745D041741BA Old RevisionGUID=b36ee2d2-b704-4a82-8034-b637a535d141 New RevisionGUID=0ec07842-70b0-43e5-aef3-0ca3fc4689fe
+Change Managed Component Library Link : Designator=C5 Old VaultGUID=d258a43b-2d81-4b5d-ad95-ab7aefcdd56e New VaultGUID=d258a43b-2d81-4b5d-ad95-ab7aefcdd56e Old ItemGUID=631784F0-2768-4534-B82A-745D041741BA New ItemGUID=631784F0-2768-4534-B82A-745D041741BA Old RevisionGUID=b36ee2d2-b704-4a82-8034-b637a535d141 New RevisionGUID=0ec07842-70b0-43e5-aef3-0ca3fc4689fe
+Change Managed Component Library Link : Designator=C8 Old VaultGUID=d258a43b-2d81-4b5d-ad95-ab7aefcdd56e New VaultGUID=d258a43b-2d81-4b5d-ad95-ab7aefcdd56e Old ItemGUID=631784F0-2768-4534-B82A-745D041741BA New ItemGUID=631784F0-2768-4534-B82A-745D041741BA Old RevisionGUID=b36ee2d2-b704-4a82-8034-b637a535d141 New RevisionGUID=0ec07842-70b0-43e5-aef3-0ca3fc4689fe
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CAPC2012X06N"; UniqueID = "\ZIWLCGCS" ("\ZIWLCGCS")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "08053C104KAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "08053C104KAT2A.SchLib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0.1 uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "CAPC2012X06N"; UniqueID = "\KKTHXSAH" ("\KKTHXSAH")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "08053C104KAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "08053C104KAT2A.SchLib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0.1 uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "CAPC2012X06N"; UniqueID = "\IYJLSPWN" ("\IYJLSPWN")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "08053C104KAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "08053C104KAT2A.SchLib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0.1 uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "CAPC2012X06N"; UniqueID = "\MABIDMNX" ("\MABIDMNX")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "08053C104KAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "08053C104KAT2A.SchLib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0.1 uF"; VariantName = "[No Variations]"

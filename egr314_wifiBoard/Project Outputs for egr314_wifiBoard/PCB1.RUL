@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\egkit\Desktop\spring 2025\egr 314\realegr314report\egr314report\egr314_wifiBoard\PCB1.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=15.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
