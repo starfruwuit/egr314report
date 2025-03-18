@@ -24,11 +24,3 @@ title: Bill of Materials
 |10K Ohm Resistor | RC1206FR-0710KL | 2 | 4 | [digikey](https://www.digikey.com/en/products/detail/yageo/RC1206FR-0710KL/728483) |
 |220 Ohm Resistor | CRGCQ0805F220R| 4 | 8 | [digikey](https://www.digikey.com/en/products/detail/te-connectivity-passive-product/CRGCQ0805F220R/8576343) |
 |Diodes | SD0805S020S1R0| 6 | 6 |[digikey](https://www.digikey.com/en/products/detail/kyocera-avx/SD0805S020S1R0/3749517?s=N4IgTCBcDaIMoBEAMAOJBWOSxLgRgCUkQBdAXyA) |
-
-
-## For Breadboard: 
-|Component |Part name | Quantity | Spares |Digikey link|
-|----------|----------|----------|--------|-------------|
-|ESP32
-|Switching Voltage Regulator
-|
