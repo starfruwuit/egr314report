@@ -23,5 +23,5 @@ title: Bill of Materials
 |100 uF Capacitor | GRM31CR61A107MEA8L | 1| 2| [digikey](https://www.digikey.com/en/products/detail/murata-electronics/GRM31CR61A107MEA8L/16033775) | 
 |330 uF Capacitor | JMK325ABJ337MM-PE | 1| 2| [digikey](https://www.digikey.com/en/products/detail/taiyo-yuden/JMK325ABJ337MM-PE/10283779) |
 |10K Ohm Resistor | RC1206FR-0710KL |2 |4 | [digikey](https://www.digikey.com/en/products/detail/yageo/RC1206FR-0710KL/728483) |
-|220 Ohm Resistor | CRGCQ0805F220R| | [digikey](https://www.digikey.com/en/products/detail/te-connectivity-passive-product/CRGCQ0805F220R/8576343) |
+|220 Ohm Resistor | CRGCQ0805F220R| | | [digikey](https://www.digikey.com/en/products/detail/te-connectivity-passive-product/CRGCQ0805F220R/8576343) |
 |Diodes | SD0805S020S1R0|6| 6|[digikey](https://www.digikey.com/en/products/filter/single-diodes/280?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRAGYBOcgJkpANgA4AWFgdgZCfPbAgJgWABkoBWeAF0CABwAuUEAGU5AJwCWAOwDmIAL6N60EMkjps%2BIqRAjq1ENJDzFKjTv2DKTI0lSZcBMSQZMIOBiAAtPDGpmoArpZBZDRh4SnBIAAm6oSZOGFAA) |
