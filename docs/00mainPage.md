@@ -12,3 +12,5 @@ Hello! My name is Ella Greetis and I'm a Robotics Engineering student. I'm in ch
 [Link to Block Diagram: Bidirectional Internet Communication](01BlockDiagram.md) <br>
 [Link to Component Selection](02componentSelection.md) <br>
 [Link to Schematic](03schematic.md) <br>
+[Link to Bill of Materials](04BOM.md) <br>
+[Link to API](05API.md) <br>
