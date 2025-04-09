@@ -1,7 +1,7 @@
 ---
 title: Schematic
 ---
-![schematic](SchematicImage05mar2025.png)
+![schematic](SchematicImage09April2025.png)
 
 [download schematic .pdf](egr314_wifiBoard/Schematic01.pdf "download") <br>
 [download schematic .zip](egr314_wifiBoard/egr314_wifiBoard_05mar2025.zip "download") <br>
