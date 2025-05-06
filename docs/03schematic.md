@@ -3,9 +3,9 @@ title: Schematic
 ---
 ![schematic](SchematicImage09April2025.png)
 
-[download schematic .pdf](egr314_wifiBoard/Schematic01.pdf "download") <br> 
-[download schematic .zip](egr314_wifiBoard/egr314_wifiBoard_05mar2025.zip "download") <br>
+Download Schematic .pdf: [Schematic02.pdf](https://github.com/user-attachments/files/20052940/Schematic02.pdf)
 
+Download Altium Project .zip: [altium_project_archive_may052025.zip](https://github.com/user-attachments/files/20052945/altium_project_archive_may052025.zip)
 
 ## PCB Front and Back
 ### PCB Front: 
