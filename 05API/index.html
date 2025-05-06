@@ -93,7 +93,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#message-type-6-motor-speed" class="md-skip">
+        <a href="#message-type-motor-speed" class="md-skip">
           Skip to content
         </a>
       
@@ -565,15 +565,22 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#message-type-6-motor-speed" class="md-nav__link">
-    Message Type 6 - Motor Speed
+  <a href="#message-type-motor-speed" class="md-nav__link">
+    Message Type - Motor Speed
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#message-type-3-motor-safety" class="md-nav__link">
-    Message Type 3 - Motor Safety
+  <a href="#message-type-motor-safety" class="md-nav__link">
+    Message Type - Motor Safety
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#message-type-feedback" class="md-nav__link">
+    Message Type - Feedback
   </a>
   
 </li>
@@ -711,15 +718,22 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#message-type-6-motor-speed" class="md-nav__link">
-    Message Type 6 - Motor Speed
+  <a href="#message-type-motor-speed" class="md-nav__link">
+    Message Type - Motor Speed
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#message-type-3-motor-safety" class="md-nav__link">
-    Message Type 3 - Motor Safety
+  <a href="#message-type-motor-safety" class="md-nav__link">
+    Message Type - Motor Safety
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#message-type-feedback" class="md-nav__link">
+    Message Type - Feedback
   </a>
   
 </li>
@@ -747,9 +761,7 @@
   
 
 
-  <h1>API</h1>
-
-<h2 id="message-type-6-motor-speed">Message Type 6 - Motor Speed</h2>
+<h2 id="message-type-motor-speed">Message Type - Motor Speed</h2>
 <table>
 <thead>
 <tr>
@@ -763,7 +775,7 @@
 </thead>
 <tbody>
 <tr>
-<td>Byte 1-2</td>
+<td>Bytes 1-2</td>
 <td>char</td>
 <td>prefix</td>
 <td>n/a</td>
@@ -771,16 +783,40 @@
 <td>b'AZ</td>
 </tr>
 <tr>
-<td>Bytes 5</td>
+<td>Byte 3</td>
+<td>char</td>
+<td>sender</td>
+<td>n/a</td>
+<td>n/a</td>
+<td>b'B'</td>
+</tr>
+<tr>
+<td>Byte 4</td>
+<td>char</td>
+<td>receiver</td>
+<td>n/a</td>
+<td>n/a</td>
+<td>b'G'</td>
+</tr>
+<tr>
+<td>Bytes 5-x</td>
 <td>char</td>
 <td>motorSpeed</td>
 <td>0</td>
 <td>150</td>
 <td>130</td>
 </tr>
+<tr>
+<td>Bytes x+1 to x+2</td>
+<td>char</td>
+<td>suffix</td>
+<td>n/a</td>
+<td>n/a</td>
+<td>b'YB'</td>
+</tr>
 </tbody>
 </table>
-<h2 id="message-type-3-motor-safety">Message Type 3 - Motor Safety</h2>
+<h2 id="message-type-motor-safety">Message Type - Motor Safety</h2>
 <table>
 <thead>
 <tr>
@@ -794,12 +830,99 @@
 </thead>
 <tbody>
 <tr>
-<td>Byte 1</td>
-<td>uint8_t</td>
-<td>motorSpeed</td>
+<td>Bytes 1-2</td>
+<td>char</td>
+<td>prefix</td>
+<td>n/a</td>
+<td>n/a</td>
+<td>b'AZ'</td>
+</tr>
+<tr>
+<td>Byte 3</td>
+<td>char</td>
+<td>sender</td>
+<td>n/a</td>
+<td>n/a</td>
+<td>b'S'</td>
+</tr>
+<tr>
+<td>Byte 4</td>
+<td>char</td>
+<td>receiver</td>
+<td>n/a</td>
+<td>n/a</td>
+<td>b'G'</td>
+</tr>
+<tr>
+<td>Byte 5</td>
+<td>char</td>
+<td>safety</td>
 <td>0</td>
-<td>150</td>
-<td>130</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Bytes 6-7</td>
+<td>char</td>
+<td>suffix</td>
+<td>n/a</td>
+<td>n/a</td>
+<td>b'YB'</td>
+</tr>
+</tbody>
+</table>
+<h1 id="message-type-feedback">Message Type - Feedback</h1>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>data type</th>
+<th>variable name</th>
+<th>smallest number recognized</th>
+<th>largest number recognized</th>
+<th>example of valid data</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Bytes 1-2</td>
+<td>char</td>
+<td>prefix</td>
+<td>n/a</td>
+<td>n/a</td>
+<td>b'AZ</td>
+</tr>
+<tr>
+<td>Byte 3</td>
+<td>char</td>
+<td>sender</td>
+<td>n/a</td>
+<td>n/a</td>
+<td>b'G'</td>
+</tr>
+<tr>
+<td>Byte 4</td>
+<td>char</td>
+<td>receiver</td>
+<td>n/a</td>
+<td>n/a</td>
+<td>b'H'</td>
+</tr>
+<tr>
+<td>Bytes 5-x</td>
+<td>char</td>
+<td>feedback</td>
+<td>n/a</td>
+<td>n/a</td>
+<td>"hello world"</td>
+</tr>
+<tr>
+<td>Bytes x+1 to x+2</td>
+<td>char</td>
+<td>suffix</td>
+<td>n/a</td>
+<td>n/a</td>
+<td>b'YB'</td>
 </tr>
 </tbody>
 </table>
