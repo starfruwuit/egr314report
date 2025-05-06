@@ -17,7 +17,6 @@ I chose the LM2575 because it's familiar from the Switching Power Supply lab. It
 | ESP32-S1-WROOM | Bidirectional wireless communication, UART communication | 
 | LM2575 | Switching Stepdown REgulator with input of 7-40V and output of 3.3V | 
 
-
 ## Microchip
 ### Requirements 
 I will use an ESP32 microcontroller for this project because my subsystem requires the use of a wifi module. 
@@ -39,45 +38,18 @@ I will use an ESP32 microcontroller for this project because my subsystem requir
 |1| GND |Ground|
 |2| 3v3 |Power In|
 |3| EN |reset button & RC circuit to stabilize input power|
-|4| IO4 |Debugging LED|
-|5|IO5 |Debugging LED|
-|6|IO6 |Debugging Pushbutton|
-|7|IO7 |Debugging Header|
-|8|IO15 |Debugging Header|
-|9|IO16 |Debugging Header|
-|10|IO17 |Debugging Header|
-|11|IO18 |Debugging Header|
-|12|IO8 |Debugging Header|
+|6|IO2 |Debugging Pushbutton|
+|9| IO16 | RX2 |
+|10| IO17 | TX2 |
 |13|IO19 |USB_D-|
 |14|IO20 |USB_D+|
-|15|IO3 |Debugging Header|
-|16|IO46 |Debugging Header|
-|17|IO9 |Debugging Header|
-|18|IO10 |Debugging Header|
-|19|IO11 |Debugging Header|
-|20|IO12 |Debugging Header|
-|21|IO13 |Debugging Header|
-|22|IO14 |Debugging Header|
-|23|IO21 |Debugging Header|
-|24|IO47 |Debugging Header|
-|25|IO48 |Debugging Header|
-|26|IO45 |Debugging Header|
-|27|IO0 |Debugging Header|
-|28|IO35 |Debugging Header|
-|29|IO36 |Debugging Header|
-|30|IO37 |Debugging Header|
-|31|IO38 |Debugging Header|
-|32|IO39 |Debugging Header|
-|33|IO40 |Debugging Header|
-|34|IO41 |Debugging Header|
-|35|IO42 |Debugging Header|
-|36|RXD0 |Receiving Data from Upstream|
-|37|TXD0 |Transmitting Data Downstream|
-|38|IO2 |Debugging Header|
-|39|IO1 |Debugging Header|
-|40|GND |Ground|
+|27|IO0 | BOOT Button|
+
+### Decision-Making Process
+I decided to use pins 16 and 17 as RX2 and TX2, rather than the originally planned RX0 and TX0, because the UART0 module is used for other important board processes I didn't want to overwrite. Initially I was unaware of the need for a BOOT button in flashing the ESP's firmware, and ended up having to solder a jumper wire to connect to ground for both the EN and BOOT pins. 
 
 ## Power Budget
 ![Power Budget](powerBudget.png)
+This power budget was very useful in knowing how much power the board is supposed to handle. The system is not supposed to draw more than 0.5 Amperes at maximum, so when I was testing it with a power supply I knew a current reading of almost 1 Amp meant there was a short, somehow, within the ESP. 
 
-This page is up-to-date as of February 28, 2025 and will continue to be updated throughout the semester. 
+This page is up-to-date as of May 05, 2025. 
