@@ -11,6 +11,13 @@ title: Component Selection
 ### Selection
 I chose the LM2575 because it's familiar from the Switching Power Supply lab. It's only a few cents more expensive than the TPS5403DR, and provides up to 1 Amp of current, which is far more than enough. 
 
+### Major Components
+|Component | Purpose | 
+|----------|---------|
+| ESP32-S1-WROOM | Bidirectional wireless communication, UART communication | 
+| LM2575 | Switching Stepdown REgulator with input of 7-40V and output of 3.3V | 
+
+
 ## Microchip
 ### Requirements 
 I will use an ESP32 microcontroller for this project because my subsystem requires the use of a wifi module. 
